@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BaobaogoLowerBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Baobaogo
+    m_Weight: 1
+  - m_Path: BaobaogoArmature
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/Spine
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/Head
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/Head/UpperEar.L
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/Head/UpperEar.L/LowerEar.L
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/Spine/Head/UpperEar.L/LowerEar.L/LowerEar.L_end
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/Spine/Head/UpperEar.R
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/Head/UpperEar.R/LowerEar.R
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/Spine/Head/UpperEar.R/LowerEar.R/LowerEar.R_end
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/Spine/UpperArm.L
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/UpperArm.L/LowerArm.L
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/UpperArm.L/LowerArm.L/LowerArm.L_end
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/UpperArm.R
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/UpperArm.R/LowerArm.R
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/Spine/UpperArm.R/LowerArm.R/LowerArm.R_end
+    m_Weight: 0
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.L
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.L/LowerLeg.L
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.L/LowerLeg.L/Feet.L
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.L/LowerLeg.L/Feet.L/Feet.L_end
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.R
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.R/LowerLeg.R
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.R/LowerLeg.R/Feet.R
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/Hip/UpperLeg.R/LowerLeg.R/Feet.R/Feet.R_end
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/LegIK.L
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/LegIK.L/LegIK.L_end
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/LegIK.R
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/LegIK.R/LegIK.R_end
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/PoleTarget.L
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/PoleTarget.L/PoleTarget.L_end
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/PoleTarget.R
+    m_Weight: 1
+  - m_Path: BaobaogoArmature/PoleTarget.R/PoleTarget.R_end
+    m_Weight: 1

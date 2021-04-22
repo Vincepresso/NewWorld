@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 630b80cc2aa3897408aaf067aa33e2dc
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8349542763059015795
+    second: Armature|Walk
+  - first:
+      74: -6544428077046268240
+    second: Armature|Walk.001
+  - first:
+      74: 4323256711508789583
+    second: BaobaogoArmature|Idle
+  - first:
+      74: -3273073309494438200
+    second: BaobaogoArmature|Walk
+  - first:
+      74: -4926069085270579208
+    second: BaobaogoArmature|Walk2
+  - first:
+      74: -7475414094784737298
+    second: BaobaogoArmature|Walk3
+  - first:
+      74: -5062095648007468726
+    second: BaobaogoArmature|MidAirUp
+  - first:
+      74: 5773379475712070858
+    second: BaobaogoArmature|MidairDown
+  - first:
+      74: -6717207466165844617
+    second: BaobaogoArmature|Attack1
+  - first:
+      74: -9001445333554516558
+    second: BaobaogoArmature|Attack2
+  - first:
+      74: 832681174584306465
+    second: BaobaogoArmature|Run
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BaobaogoArmature|Idle
+      takeName: BaobaogoArmature|00_Idle
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BaobaogoArmature|Walk
+      takeName: BaobaogoArmature|Walk
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BaobaogoArmature|MidAirUp
+      takeName: BaobaogoArmature|MidAirUp
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BaobaogoArmature|MidairDown
+      takeName: BaobaogoArmature|MidairDown
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BaobaogoArmature|Attack1
+      takeName: BaobaogoArmature|Attack1
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BaobaogoArmature|Attack2
+      takeName: BaobaogoArmature|Attack2
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BaobaogoArmature|Run
+      takeName: BaobaogoArmature|Run
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Baobaogo(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Baobaogo
+      parentName: Baobaogo(Clone)
+      position: {x: -0, y: -0.03135534, z: 0}
+      rotation: {x: -6.123235e-17, y: 1, z: 6.123235e-17, w: 0.00000019470718}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BaobaogoArmature
+      parentName: Baobaogo(Clone)
+      position: {x: -0, y: -0.03135534, z: 0}
+      rotation: {x: -0.00000009415696, y: 0.7071068, z: 0.7071067, w: 0.00000009415697}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hip
+      parentName: BaobaogoArmature
+      position: {x: -3.5574965e-10, y: 0.00007726878, z: 0.004092048}
+      rotation: {x: -0.000000097201976, y: -0.6808654, z: -0.73240864, w: -0.00000009648303}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+    - name: Spine
+      parentName: Hip
+      position: {x: -8.881784e-18, y: 0.0010607246, z: 3.7252902e-11}
+      rotation: {x: 0.051588237, y: 0.00000015079476, z: -7.1054274e-15, w: 0.99866843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Spine
+      position: {x: -1.7520334e-17, y: 0.002636928, z: -1.8626451e-11}
+      rotation: {x: -0.009665105, y: -0.00000011920371, z: -3.072201e-10, w: 0.99995327}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: UpperEar.L
+      parentName: Head
+      position: {x: -0.0015889214, y: 0.0036332738, z: -0.000078298224}
+      rotation: {x: -0.013782894, y: -0.010170071, z: 0.81040215, w: 0.5856236}
+      scale: {x: 1.0000002, y: 1, z: 0.9999999}
+    - name: LowerEar.L
+      parentName: UpperEar.L
+      position: {x: 2.8693772e-10, y: 0.00178528, z: 6.286427e-11}
+      rotation: {x: 0.0128520075, y: -0.0020611826, z: 0.08891976, w: 0.9959538}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: LowerEar.L_end
+      parentName: LowerEar.L
+      position: {x: -0, y: 0.0015176266, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperEar.R
+      parentName: Head
+      position: {x: 0.0015889214, y: 0.0036332738, z: -0.0000782985}
+      rotation: {x: -0.013783002, y: 0.010170091, z: -0.8104022, w: 0.58562356}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+    - name: LowerEar.R
+      parentName: UpperEar.R
+      position: {x: 6.0239634e-12, y: 0.0017852791, z: 6.519258e-11}
+      rotation: {x: 0.012851935, y: 0.002061216, z: -0.08891966, w: 0.99595374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerEar.R_end
+      parentName: LowerEar.R
+      position: {x: -0, y: 0.0015176266, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperArm.L
+      parentName: Spine
+      position: {x: -0.0016260571, y: 0.002168643, z: 0.0001421883}
+      rotation: {x: -0.011129312, y: 0.010287804, z: 0.6787268, w: 0.73423445}
+      scale: {x: 0.9999995, y: 0.9999996, z: 1}
+    - name: LowerArm.L
+      parentName: UpperArm.L
+      position: {x: -1.4674983e-10, y: 0.0015837507, z: 8.864366e-12}
+      rotation: {x: 0.000000007450581, y: 0.000000020489097, z: 0.044267733, w: 0.99901974}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.99999976}
+    - name: LowerArm.L_end
+      parentName: LowerArm.L
+      position: {x: -0, y: 0.0023068015, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperArm.R
+      parentName: Spine
+      position: {x: 0.0016260571, y: 0.002168643, z: 0.0001421888}
+      rotation: {x: -0.011129074, y: -0.010288043, z: -0.6787271, w: 0.7342342}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: LowerArm.R
+      parentName: UpperArm.R
+      position: {x: 1.5501342e-10, y: 0.001583751, z: -3.538055e-11}
+      rotation: {x: -0.00000004097819, y: -0.00000001536682, z: -0.04426779, w: 0.9990197}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999964}
+    - name: LowerArm.R_end
+      parentName: LowerArm.R
+      position: {x: -0, y: 0.0023068015, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLeg.L
+      parentName: Hip
+      position: {x: -0.0007943712, y: -0.00019344263, z: -0.00009160281}
+      rotation: {x: 0.0001956149, y: -0.012073696, z: 0.99992454, w: 0.0022654631}
+      scale: {x: 0.9999812, y: 1.0000004, z: 0.9994525}
+    - name: LowerLeg.L
+      parentName: UpperLeg.L
+      position: {x: -1.4551915e-11, y: 0.0011519489, z: -5.0931703e-11}
+      rotation: {x: -0.024682565, y: 0.00011309711, z: 0.0009802815, w: 0.9996949}
+      scale: {x: 1.0000004, y: 1, z: 1.0000006}
+    - name: Feet.L
+      parentName: LowerLeg.L
+      position: {x: 1.3251338e-10, y: 0.0020166032, z: -1.0375515e-10}
+      rotation: {x: 0.7073223, y: 0.003589406, z: 0.0015884031, w: 0.7068804}
+      scale: {x: 1.0000019, y: 0.9999989, z: 1.0000002}
+    - name: Feet.L_end
+      parentName: Feet.L
+      position: {x: -0, y: 0.0015313782, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLeg.R
+      parentName: Hip
+      position: {x: 0.0007943712, y: -0.00019344263, z: -0.000091603055}
+      rotation: {x: -0.00019537666, y: -0.012073696, z: 0.99992454, w: -0.0022654664}
+      scale: {x: 0.99998146, y: 1.0000004, z: 0.9994525}
+    - name: LowerLeg.R
+      parentName: UpperLeg.R
+      position: {x: -1.4551914e-12, y: 0.001151949, z: 1.1292286e-10}
+      rotation: {x: -0.024682563, y: -0.00011302488, z: -0.0009802829, w: 0.9996949}
+      scale: {x: 1.0000001, y: 0.9999996, z: 1.0000004}
+    - name: Feet.R
+      parentName: LowerLeg.R
+      position: {x: 1.4701072e-10, y: 0.0020166035, z: 1.664921e-10}
+      rotation: {x: 0.7073224, y: -0.0035894057, z: -0.0015884025, w: 0.7068802}
+      scale: {x: 1.0000013, y: 0.99999875, z: 1}
+    - name: Feet.R_end
+      parentName: Feet.R
+      position: {x: -0, y: 0.0015313782, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegIK.L
+      parentName: BaobaogoArmature
+      position: {x: 0.0007943712, y: -0.0012808954, z: 0.00023606821}
+      rotation: {x: 7.1054274e-15, y: -0.00000008940697, z: -1, w: -0.00000006154913}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: LegIK.L_end
+      parentName: LegIK.L
+      position: {x: -0, y: 0.001113089, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.L
+      parentName: BaobaogoArmature
+      position: {x: 0.00081401947, y: 0.004013421, z: 0.00272025}
+      rotation: {x: -0.019209117, y: -0.0000013521608, z: -0.000000035536488, w: 0.99981546}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+    - name: PoleTarget.L_end
+      parentName: PoleTarget.L
+      position: {x: -0, y: 0.0016423443, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LegIK.R
+      parentName: BaobaogoArmature
+      position: {x: -0.0007943712, y: -0.0012808954, z: 0.00023606821}
+      rotation: {x: 7.1054274e-15, y: -0.00000008940697, z: -1, w: -0.00000006154913}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: LegIK.R_end
+      parentName: LegIK.R
+      position: {x: -0, y: 0.001113089, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.R
+      parentName: BaobaogoArmature
+      position: {x: -0.00081401947, y: 0.004013421, z: 0.00272025}
+      rotation: {x: -0.019209117, y: -0.0000013521608, z: -0.000000035536488, w: 0.99981546}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+    - name: PoleTarget.R_end
+      parentName: PoleTarget.R
+      position: {x: -0, y: 0.0016423443, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
